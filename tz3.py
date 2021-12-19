@@ -1,8 +1,3 @@
-import numpy as np
-
-
-
-
 def openfile(filename):
     bin =[]
     data = []
